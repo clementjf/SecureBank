@@ -1,5 +1,5 @@
 package Models;
-//test
+
 public class Balance {
 	private double money;
 	private String currency;
